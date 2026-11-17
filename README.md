@@ -25,6 +25,10 @@ curso *ChatGPT Prompt Engineering for Developers* (DeepLearning.AI):
    encerramento, e restrição de escopo ao tema APIs).
 3. **Conhecimento** necessário (material de estudo sobre APIs).
 
+## Vídeo de apresentação
+
+🎥 https://youtu.be/0e5a6eR3Mmc?si=S1r2iDqPy1jOaM0q
+
 ## Pré-requisitos
 
 - Uma conta Google (para rodar no Google Colab)
@@ -63,7 +67,3 @@ Experimente também uma pergunta fora do contexto (ex.: "Qual a capital
 da França?") para verificar que o bot recusa educadamente e mantém o
 foco no tema APIs. Ao final da 3ª resposta, o bot fornece um resumo da
 conversa e encerra a sessão automaticamente.
-
-## Conheça o Projeto
-
-Vídeo Explicativo: https://youtu.be/0e5a6eR3Mmc?si=S1r2iDqPy1jOaM0q
