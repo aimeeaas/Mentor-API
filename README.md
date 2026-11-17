@@ -27,7 +27,7 @@ curso *ChatGPT Prompt Engineering for Developers* (DeepLearning.AI):
 
 ## Vídeo de apresentação
 
-🎥 https://youtu.be/0e5a6eR3Mmc?si=S1r2iDqPy1jOaM0q
+🎥 [Link para o vídeo no YouTube](https://youtu.be/0e5a6eR3Mmc?si=S1r2iDqPy1jOaM0q)
 
 ## Pré-requisitos
 
